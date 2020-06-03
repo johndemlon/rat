@@ -1,0 +1,6 @@
+@import url('main.css');
+
+#account-update-container {
+    height: 404px;
+    background-color: var(--hd-color);
+}
